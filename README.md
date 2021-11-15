@@ -14,7 +14,7 @@ titled LICENSE in the project root folder.
 ## Using
 
 Simply add the following import
-`import "github.com/dojimanetwork/jwk-go"`
+`import "github.com/dojimanetwork/jwkgo"`
 
 ## Documentation
 

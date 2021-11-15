@@ -1,3 +1,3 @@
-module github.com/dojimanetwork/jwk-go
+module github.com/dojimanetwork/jwkgo
 
 go 1.14
