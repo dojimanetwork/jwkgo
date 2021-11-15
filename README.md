@@ -1,4 +1,4 @@
-# gojwk
+# jwkgo
 
 Golang implementation of JWK validation
 
